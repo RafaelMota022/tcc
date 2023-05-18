@@ -1,27 +1,38 @@
 .espaco{
+
     margin-top: 30px;
 
-
-} 
+        } 
 
 .col-12{
-    margin-top: 30px;
-
-}
+    margin-top: 20px;
+    }
 
 .btn{
 
     width: 100%;
-    margin-top: 30px;
+    margin-top: 20px;
     padding: 10px;
+    background-color: black;
+    color: aliceblue;
 
 }
 
 .form{
-    margin-top: 80px;
+    margin-top: 280px;
 }
 
 .img{
- margin-top: 50px;
- width: 500px;
+    display: block;
+    width: 700px;
+    margin-top: 70px;
+    margin-left: -90px;
+}
+
+
+body{
+
+background-color:#206435;
+background-image: linear-gradient(90deg,#206435, rgba(255, 255, 255, 0.288));
+
 }
